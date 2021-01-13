@@ -10,9 +10,9 @@ These two directories correspond to the datasets of two diffferent terrains.
 2)To download the simulator go to this url: https://github.com/udacity/self-driving-car-sim
 (We used the Version 2 simulators)
 
-## Video of the Project: https://drive.google.com/open?id=1MfupWbhrcrXv-phPnSdkTIkbaTYrW_Ks
 
 *******************************************
+### Video of the Project: https://drive.google.com/open?id=1MfupWbhrcrXv-phPnSdkTIkbaTYrW_Ks
 
 
 For each model, we have provided a README.md file to help run that module.
